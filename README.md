@@ -4,8 +4,8 @@ I'm Kamil, a graduate of the University of Łódź, who wants to develop his int
 technologies and solutions to create programs that improve people lives. 
 
 Check my repositories:
-- [SilowniaApp] - 
-- [MyTests] - 
+- [SilowniaApp](https://github.com/KamilWaleszczyk/SilowniaApp) - Android application.
+- [MyTests](https://github.com/KamilWaleszczyk/My-tests) - Place where I show how I conduct tests.
 
 
 <h3 align="left">Languages and Tools:</h3>
