@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Kamil, a graduate of the University of Łódź, who wants to develop his interest in programming, constantly eager to learn and explore new
-technologies and solutions to create programs that improve people lives. 
+technologies and solutions. 
 
 Check my repositories:
 - [SilowniaApp](https://github.com/KamilWaleszczyk/SilowniaApp) - Android application.
