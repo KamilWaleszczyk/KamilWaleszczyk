@@ -4,6 +4,7 @@ I'm Kamil, a graduate of the University of Łódź, who wants to develop his int
 technologies and solutions. 
 
 Check my repositories:
+- [Roots](https://github.com/KamilWaleszczyk/Roots) - Android application.
 - [SilowniaApp](https://github.com/KamilWaleszczyk/SilowniaApp) - Android application.
 - [MyTests](https://github.com/KamilWaleszczyk/My-tests) - Place where I show how I conduct tests.
 
